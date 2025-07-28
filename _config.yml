@@ -37,7 +37,7 @@ author: Michigan State University
 # e.g. relative path "/assets/demo-metadata.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vR5gJkagY9wvYt5jTZy7C6pCg6KxUeT0eTb7858G8_Ta-xfiAVRUaZpL24zAsdEuG2c9bvzQAhSthw9/pub?output=csv
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vT1RgU1Sp51VzvHHFOxmwKxWLrsCSFwSVqvyubydAt1w6d9hqLWW6c40amb4qm9A5y8h6J_uW8B3tZb/pub?output=csv
 
 ##########
 # Site/Organization Branding 
